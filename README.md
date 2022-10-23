@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vasilisneofytou
-- 👀 I studied software engineer at IEK ALFA (Thessaloniki,GR)
+- 👀 BSc in Computer Science
 - 🌱 I’m currently learning programming languages
 - 👨‍💼 I’m Founder & CEO of @neofytougroup
 
